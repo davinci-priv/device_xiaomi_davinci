@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_davinci.mk
+    $(LOCAL_DIR)/aosp_davinci.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_davinci-user \
-    pixys_davinci-userdebug \
-    pixys_davinci-eng
+    aosp_davinci-user \
+    aosp_davinci-userdebug \
+    aosp_davinci-eng
